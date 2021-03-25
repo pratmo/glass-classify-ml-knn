@@ -24,15 +24,19 @@ Fe: Iron
 
 Type: Type of glass: (class attribute)
 1 -- building_windows_float_processed
+
 2 --building_windows_non_float_processed
+
 3 --vehicle_windows_float_processed
+
 4 --vehicle_windows_non_float_processed (none in this database)
+
 5 --containers
+
 6 --tableware
+
 7 --headlamps
 
 Language: Python (3.9.2)
-
 Tool: Jupyter Notebook (conda 4.9.2)
-
 System: Linux (Ubuntu) 20.04.2 LTS Focal Fossa
