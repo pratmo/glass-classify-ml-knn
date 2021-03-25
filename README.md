@@ -3,7 +3,7 @@
 In this code we prepare a Machine Learning Model using KNN Algorithm to classify glass based on it's type from the below distinguishing features. We also used the grid search for algorithm tuning to find the best n_neighbours for this problem, and visualized the same using matplotlib.pyplot.
 
 
-## Data Description (glass.csv):
+#### Data Description (glass.csv):
 
 RI : refractive index
 
@@ -24,7 +24,7 @@ Ba: Barium
 Fe: Iron
 
 
-## Type: Type of glass: (class attribute)
+#### Type: Type of glass: (class attribute)
 1 -- building_windows_float_processed
 
 2 --building_windows_non_float_processed
@@ -40,8 +40,8 @@ Fe: Iron
 7 --headlamps
 
 
-## Language: Python (3.9.2)
+#### Language: Python (3.9.2)
 
-## Tool: Jupyter Notebook (conda 4.9.2)
+#### Tool: Jupyter Notebook (conda 4.9.2)
 
-## System: Linux (Ubuntu) 20.04.2 LTS Focal Fossa
+#### System: Linux (Ubuntu) 20.04.2 LTS Focal Fossa
