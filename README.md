@@ -1,6 +1,6 @@
 ### glass-classify-ml-knn
 
-In this code we are preparing a Machine Learning Model using KNN Algorithm to classify glass based on it's type from the below distinguishing features. We also used the grid search for algorithm tuning to find the best n_neighbours for this problem, and visualized the same using matplotlib.pyplot.
+In this code we prepare a Machine Learning Model using KNN Algorithm to classify glass based on it's type from the below distinguishing features. We also used the grid search for algorithm tuning to find the best n_neighbours for this problem, and visualized the same using matplotlib.pyplot.
 
 Data Description (glass.csv):
 
